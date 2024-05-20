@@ -8,7 +8,7 @@ from langchain.chains import RetrievalQA
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 import os
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "<ENTER_KEY_HERE>"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
 
 def main():
